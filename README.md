@@ -3,7 +3,7 @@
 # 🤖 AI-Powered HR Resume Parser
 
 <p align="center">
-  <img src="assets/image1.png" alt="Chat with PDF Banner" width="80%">
+  <img src="assesst/image1.png" alt="Chat with PDF Banner" width="80%">
 </p>
 
 <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
