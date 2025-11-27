@@ -2,6 +2,10 @@
 
 # 🤖 AI-Powered HR Resume Parser
 
+<p align="center">
+  <img src="assets/image1.png" alt="Chat with PDF Banner" width="80%">
+</p>
+
 <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python">
 <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit">
 <img src="https://img.shields.io/badge/Transformers-4.52.4-orange.svg" alt="Transformers">
@@ -520,9 +524,9 @@ in the Software without restriction...
 
 ## 📧 Contact & Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/hr-resume-parser/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/hr-resume-parser/discussions)
-- **Email:** your.email@example.com
+- **Issues:** [GitHub Issues](https://github.com/A7med668/hr-resume-parser/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/A7med668/hr-resume-parser/discussions)
+- **Email:** ahmedhussein12215@gmail.com
 
 ---
 
