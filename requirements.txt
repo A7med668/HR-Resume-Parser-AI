@@ -1,0 +1,4 @@
+# Install all packages
+!pip install -q streamlit ngrok pyngrok transformers==4.52.4 torch accelerate
+!pip install -q langchain langchain-community langchain-core pypdf PyPDF2
+!pip install -q pdf2image pillow
