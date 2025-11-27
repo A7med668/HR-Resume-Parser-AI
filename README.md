@@ -523,9 +523,6 @@ in the Software without restriction...
 ---
 
 ## 📧 Contact & Support
-
-- **Issues:** [GitHub Issues](https://github.com/A7med668/hr-resume-parser/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/A7med668/hr-resume-parser/discussions)
 - **Email:** ahmedhussein12215@gmail.com
 
 ---
